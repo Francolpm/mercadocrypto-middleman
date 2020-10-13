@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340.67 340.67">
+  <defs>
+    <style>
+      .\34 622694b-2488-42bf-a987-d07fe59db032 {
+        fill: #fff;
+      }
+
+      .\35 471b275-53fd-40a3-abf3-7c4ab31af532 {
+        fill: #f85d5d;
+      }
+
+      .\30 f4b03d2-ff5e-4c76-b6be-eafc6bae5c25, .\33 1f02ed4-f34d-4d82-a44b-cc62bd9b854a, .\34 e01e2b4-36d3-45b2-b92f-46f1c40efd63 {
+        fill: none;
+        stroke: #f85d5d;
+        stroke-miterlimit: 10;
+      }
+
+      .\30 f4b03d2-ff5e-4c76-b6be-eafc6bae5c25, .\33 1f02ed4-f34d-4d82-a44b-cc62bd9b854a {
+        stroke-width: 10.19px;
+      }
+
+      .\33 1f02ed4-f34d-4d82-a44b-cc62bd9b854a, .\34 e01e2b4-36d3-45b2-b92f-46f1c40efd63 {
+        stroke-linecap: round;
+      }
+
+      .\34 e01e2b4-36d3-45b2-b92f-46f1c40efd63 {
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <title>logo</title>
+  <g id="e484ab81-9613-4268-a94e-416285fe005a" data-name="Layer 3">
+    <rect class="4622694b-2488-42bf-a987-d07fe59db032" width="340.67" height="340.67" rx="62.48" ry="62.48"/>
+  </g>
+  <g id="1f2a8906-0944-4239-a782-538078b6b2cc" data-name="Layer 1">
+    <polygon class="5471b275-53fd-40a3-abf3-7c4ab31af532" points="273.74 237.57 178.16 293.42 178.33 250.64 237.41 216.51 273.74 237.57"/>
+    <polygon class="5471b275-53fd-40a3-abf3-7c4ab31af532" points="166.79 293.2 70.81 238.02 108.02 216.9 167 251.21 166.79 293.2"/>
+    <polygon class="5471b275-53fd-40a3-abf3-7c4ab31af532" points="65.75 228.22 66.84 117.52 103.48 139.61 102.46 207.83 65.75 228.22"/>
+    <polygon class="5471b275-53fd-40a3-abf3-7c4ab31af532" points="71.67 108.49 166.86 51.97 166.99 94.75 108.15 129.29 71.67 108.49"/>
+    <polygon class="5471b275-53fd-40a3-abf3-7c4ab31af532" points="179.21 52.3 274.85 108.06 237.51 128.95 178.75 94.29 179.21 52.3"/>
+    <line class="0f4b03d2-ff5e-4c76-b6be-eafc6bae5c25" x1="183.78" y1="43.29" x2="184.06" y2="92.76"/>
+    <line class="0f4b03d2-ff5e-4c76-b6be-eafc6bae5c25" x1="161.54" y1="303.81" x2="161.8" y2="254.34"/>
+    <line class="31f02ed4-f34d-4d82-a44b-cc62bd9b854a" x1="68.37" y1="101.12" x2="106.85" y2="122.63"/>
+    <line class="0f4b03d2-ff5e-4c76-b6be-eafc6bae5c25" x1="55.79" y1="227.99" x2="99.04" y2="203.78"/>
+    <circle class="5471b275-53fd-40a3-abf3-7c4ab31af532" cx="183" cy="34.94" r="11.97"/>
+    <circle class="5471b275-53fd-40a3-abf3-7c4ab31af532" cx="60.09" cy="93.85" r="11.97"/>
+    <circle class="5471b275-53fd-40a3-abf3-7c4ab31af532" cx="48.81" cy="232.65" r="11.97"/>
+    <circle class="5471b275-53fd-40a3-abf3-7c4ab31af532" cx="162.24" cy="312.17" r="11.97"/>
+  </g>
+  <g id="adfca458-acc1-4394-b79a-02f32ff9a4c2" data-name="Layer 2">
+    <line class="4e01e2b4-36d3-45b2-b92f-46f1c40efd63" x1="170.33" y1="150.93" x2="170.33" y2="192.98"/>
+    <circle class="5471b275-53fd-40a3-abf3-7c4ab31af532" cx="170.33" cy="155.39" r="11.25"/>
+  </g>
+</svg>
